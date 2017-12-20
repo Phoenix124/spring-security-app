@@ -1,4 +1,4 @@
-Example Spring Boot Security
+Spring Boot Security
 ============================
 
 The application showing how to use Spring Boot with Spring Security
